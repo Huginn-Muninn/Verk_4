@@ -1,0 +1,29 @@
+.body1{
+    background:linear-gradient(blue,blue,blue,darkblue);
+}
+.h1{
+   color: lightgoldenrodyellow;
+    width:960px;
+   grid-template-columns: 1fr 1fr;
+   display: grid;
+   margin: 0 auto;
+}
+.sec1{
+    background:linear-gradient(lightgoldenrodyellow,goldenrod);
+    text-align: center;
+}
+.foot1{
+    grid-template-columns: 1fr 1fr 1fr;
+    display:grid;
+    margin:0 auto;
+}
+.div3{
+    width:960px;
+    height:22em;
+    padding-top: 1em;
+    
+    margin:0 auto;
+}
+.block1{
+    background-color:rgba(225,225,255,50%);
+}
