@@ -1,4 +1,3 @@
 # Verk_4
-# VEF1VG verkefni
-* [Verkefni 1.](Verkefni-1/index.html)
-* Verkefni 2 kemur síðar ...
+* [Verkefni 1_2.](Verkefni-4-nemendur/index.html)
+* [Verkefni 1_2.](Verkefni-4-nemendur/verkefni53.html)
